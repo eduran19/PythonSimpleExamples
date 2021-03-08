@@ -2,7 +2,7 @@ kelimeler = []
 xlebaslayanlar = []
 yazi = "1"
 while yazi != "":
-    yazi = input("Bir yazı giriniz:")
+    yazi = input("Bir kelime giriniz:")
     if yazi.startswith("x"):
         xlebaslayanlar.append(yazi)
     else:
