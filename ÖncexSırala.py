@@ -1,5 +1,5 @@
 kelimeler = []
-xlebaslayanlar = []
+xlebaslayanlar =[]
 yazi = "1"
 while yazi != "":
     yazi = input("Bir kelime giriniz:")
